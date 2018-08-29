@@ -1,6 +1,6 @@
 # AlexaBot
 Made by Daf.
-##*Alexa, join Discord.*
+## *Alexa, join Discord.*
 Alexa is a utility bot for your Discord server.
 ## Commands
 All commands are prefixed by "Alexa, ".
