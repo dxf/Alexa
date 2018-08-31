@@ -16,3 +16,6 @@ All commands are prefixed by "Alexa, ".
 ## Gold Stars
 - Daf, for staying sane working on this.
 - [DepressedRiven](https://twitch.tv/DepressedRiven) for making the convert command work.
+- My granny for being tranny.
+- My mom for being the biggest of the geays.
+- [LumiteDubbz](https://github.com/LumiteDubbz) for being awesome.
