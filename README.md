@@ -15,4 +15,4 @@ All commands are prefixed by "Alexa, ".
 - Run alexa.py.
 ## Gold Stars
 - Daf, for staying sane working on this.
-- [DepressedRiven](https://twitch.tv/DepressedRiven) for making the convert command work.
+- [DepressedRiven](https://twitch.tv/DepressedRiven) for making the Wolfram command work.
